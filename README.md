@@ -1,2 +1,2 @@
-# Codsoft-
+# Codsoft
 python internship tasks

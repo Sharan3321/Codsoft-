@@ -40,11 +40,11 @@ task_manager = ToDoListManager()
 root = tk.Tk()
 root.title("My To-Do List")
 
-# Set background color
+
 bg_color = "#F0F0F0"
 root.configure(bg=bg_color)
 
-# Add a frame with green background color on the top
+
 header_frame = tk.Frame(root, bg="#1E8449", height=30)
 header_frame.pack(fill=tk.X)
 
